@@ -14,3 +14,6 @@ Inclui boas práticas como DTOs, validação com Bean Validation e tratamento de
   <li>Timestamps automáticos (<i>createdAt</i>, <i>updatedAt</i>)</li>
   <li>Respostas padronizadas de erro</li>
 </ul>
+
+## 🧑‍💻 Autor
+**Lucas Campos de Souza**
